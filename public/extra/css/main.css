@@ -1,0 +1,33 @@
+﻿.destacar{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.destacarCursiva{
+    font-style: italic;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.mostrar{
+    display: block;
+}
+
+.esconder{
+    display: none;
+}
+
+button{
+    margin-top: 10px;
+}
+
+#filtros{
+    border-style: double;
+    padding:0px 0px 5px 5px;
+    background-color: rgba(0, 255, 64, 0.418);
+}
+
+
+#miMapa { height: 450px; }

@@ -1,0 +1,18 @@
+{
+ 
+  "hosting": {
+    "public": "public",
+    "map": "public/extra/index.html",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
