@@ -1,3 +1,0 @@
-dirección
-código postal municipio
-nombre
